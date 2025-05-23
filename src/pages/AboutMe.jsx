@@ -83,7 +83,7 @@ function App() {
       </main>
 
       <footer className="text-center text-gray-500 text-sm pb-6">
-        © 2025 Robert Garcia
+        © 2025 Robert
       </footer>
     </div>
   );
